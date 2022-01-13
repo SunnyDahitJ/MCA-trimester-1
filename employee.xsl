@@ -41,8 +41,8 @@
 			</td>
 			<td>
 			<xsl:choose>
-		                <xsl:when test="age &gt; 50">Associate Project Manager</xsl:when>
-		                <xsl:when test="age &gt; 40 and age &lt; 49">Team leaderAssociate Project Manager</xsl:when>
+		                <xsl:when test="Emp_age &gt; 50">Associate Project Manager</xsl:when>
+		                <xsl:when test="Emp_age &gt; 40 and Emp_age &lt; 49">Team leaderAssociate Project Manager</xsl:when>
 						<xsl:otherwise>Developer</xsl:otherwise>
 			</xsl:choose>
 			</td>

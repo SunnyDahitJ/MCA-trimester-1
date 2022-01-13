@@ -3,7 +3,7 @@
 	<xsl:template match="/">
 		<html>
 		<body>
-		<h2 style= "align-text:center">Employee Management System</h2>
+		<h2 style= "text-align:center">Employee Management System</h2>
 		
 		<table border="2" align="center">
 		<tr>

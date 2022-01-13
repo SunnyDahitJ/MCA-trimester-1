@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="employee.xsd">
+
+
+  <Employee Emp_iD="1001">
+    <Emp_name>Nikit</Emp_name>
+    <Emp_age>23</Emp_age>
+    <Emp_salary>180000</Emp_salary>
+    <Emp_emailid>imhome@cu.com</Emp_emailid>
+    <Emp_phone_no>934943348</Emp_phone_no>
+    <Emp_designation>Consultant</Emp_designation>
+  </Employee>
+  <Employee Emp_iD="1002">
+    <Emp_name>Deepti</Emp_name>
+    <Emp_age>50</Emp_age>
+    <Emp_salary>200000</Emp_salary>
+    <Emp_emailid>imnothome@cu.com</Emp_emailid>
+    <Emp_phone_no>893492832</Emp_phone_no>
+    <Emp_designation>Jr developer</Emp_designation>
+  </Employee>
+  
+  <Employee Emp_iD="1003">
+    <Emp_name>John</Emp_name>
+    <Emp_age>44</Emp_age>
+    <Emp_salary>50000</Emp_salary>
+    <Emp_emailid>imatwork@cu.com</Emp_emailid>
+    <Emp_phone_no>8329302412</Emp_phone_no>
+    <Emp_designation>Jr developer</Emp_designation>
+  </Employee>
+  
+</Company>

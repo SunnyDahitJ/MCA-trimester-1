@@ -4,7 +4,7 @@
 xsi:noNamespaceSchemaLocation="employee.xsd">
 
 
-  <Employee Emp_iD="1001">
+  <Employee Emp_iD="AA01">
     <Emp_name>Nikit</Emp_name>
     <Emp_age>23</Emp_age>
     <Emp_salary>180000</Emp_salary>
@@ -12,7 +12,7 @@ xsi:noNamespaceSchemaLocation="employee.xsd">
     <Emp_phone_no>934943348</Emp_phone_no>
     <Emp_designation>Consultant</Emp_designation>
   </Employee>
-  <Employee Emp_iD="1002">
+  <Employee Emp_iD="AA02">
     <Emp_name>Deepti</Emp_name>
     <Emp_age>59</Emp_age>
     <Emp_salary>200000</Emp_salary>
@@ -21,7 +21,7 @@ xsi:noNamespaceSchemaLocation="employee.xsd">
     <Emp_designation>Jr developer</Emp_designation>
   </Employee>
   
-  <Employee Emp_iD="1003">
+  <Employee Emp_iD="AA03">
     <Emp_name>John</Emp_name>
     <Emp_age>44</Emp_age>
     <Emp_salary>50000</Emp_salary>

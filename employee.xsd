@@ -13,7 +13,7 @@
                      <xs:element name="Emp_phone_no" type="xs:integer" />
                      <xs:element name="Emp_designation" type="xs:string" />
                   </xs:sequence>
-                  <xs:attribute name="Emp_iD" type="xs:integer" use="required" />
+                  <xs:attribute name="Emp_iD" type="xs:ID" use="required" />
                </xs:complexType>
             </xs:element>
          </xs:sequence>
